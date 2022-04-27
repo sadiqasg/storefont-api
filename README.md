@@ -5,9 +5,8 @@
 <p align="center">
   <a href="#ℹ%EF%B8%8F-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-packages">Packages</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-folder-structure">Folder structure</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#%EF%B8%8F-customize">Customize</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-deploy">Deploy</a>
 </p>
 
 ## ℹ️ About
@@ -36,7 +35,7 @@ The project was started with the following packages:
 In the dev dependencies the Jasmine, Eslint and Prettier are configured.
 
 ## Folder structure
-
+```
 ├── dist
 ├── migrations
 │   ├── sqls (contains SQL migration files)
@@ -59,7 +58,7 @@ In the dev dependencies the Jasmine, Eslint and Prettier are configured.
 ├── package-lock.json
 ├── package.json
 ├── tsconfig.json (configuration file to Typescript)
-
+```
 
 ## 🚀 Getting started
 
