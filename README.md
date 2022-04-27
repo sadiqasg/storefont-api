@@ -1,6 +1,6 @@
-<h3>
+<h1>
     STOREFRONT API
-</h3>
+</h1>
 
 Menu:&nbsp;&nbsp;
 [About](#ℹ%EF%B8%8F-about) |
