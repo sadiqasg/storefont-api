@@ -5,7 +5,7 @@
 Menu:&nbsp;&nbsp;
 [About](#ℹ%EF%B8%8F-about) |
 [Packages](#-packages) |
-[Folder structure](#folder-structure) |
+[Folder structure](#-folder-structure) |
 [Getting started](#-getting-started)  
 
 ## ℹ️ About
