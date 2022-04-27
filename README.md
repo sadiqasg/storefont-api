@@ -97,8 +97,7 @@ See the RESTful routes for the required endpoints in the REQUIREMENTS.md file [h
 
 ### Made with 💟 by Abubakar Sadiq Sambo
 ## 👋 Let's connect
-* [Portfolio](https://sadiqsambo.netlify.app)
-* Github: [@saslamp](https://github.com/saslamp/)
-* LinkedIn: [Abubakar Sambo](https://www.linkedin.com/in/sadiqsambo/)
-* Twitter: [@_abubakarSambo](https://twitter.com/_abubakarSambo/)
+* [Portfolio](https://sadiqsambo.netlify.app){:target="_blank"}
+* LinkedIn: [Abubakar Sambo](https://www.linkedin.com/in/sadiqsambo/){:target="_blank"}
+* Twitter: [@_abubakarSambo](https://twitter.com/_abubakarSambo/){:target="_blank"}
 
