@@ -2,12 +2,12 @@
     STOREFRONT API
 </h1>
 
-<p align="center">
+<!-- <ul align="center"> -->
   * [About](#ℹ%EF%B8%8F-about)
   * [Packages](#-packages)
   * [Folder structure](#folder-structure)
   * [Getting started](#-getting-started)  
-</p>
+<!-- </p> -->
 
 ## ℹ️ About
 
