@@ -1,13 +1,11 @@
-<h1 align="center">
+<h3 align="center">
     STOREFRONT API
-</h1>
+</h3>
 
-<div align="center">
-  * [About](#ℹ%EF%B8%8F-about)
-  * [Packages](#-packages)
-  * [Folder structure](#folder-structure)
-  * [Getting started](#-getting-started)  
-</div>
+[About](#ℹ%EF%B8%8F-about)
+[Packages](#-packages)
+[Folder structure](#folder-structure)
+[Getting started](#-getting-started)  
 
 ## ℹ️ About
 
