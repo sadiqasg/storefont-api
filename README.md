@@ -29,7 +29,7 @@ The project was started with the following packages:
 
 In the dev dependencies the Jasmine, Eslint and Prettier are configured.
 
-## Folder structure
+## 📁 Folder structure
 ```
 ├── dist
 ├── migrations
