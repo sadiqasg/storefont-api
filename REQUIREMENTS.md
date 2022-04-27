@@ -40,7 +40,7 @@ To login after creating user, these parameters are required
 ___
 
 ### POST /products
-To create a new user, these parameters are required
+To create add new a product, these parameters are required
 ```
 {
   "name": "",
