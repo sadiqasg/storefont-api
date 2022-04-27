@@ -1,7 +1,8 @@
-<h3 align="center">
+<h3>
     STOREFRONT API
 </h3>
 
+Menu:&nbsp;&nbsp;
 [About](#ℹ%EF%B8%8F-about)
 [Packages](#-packages)
 [Folder structure](#folder-structure)
