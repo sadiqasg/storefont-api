@@ -10,13 +10,9 @@ Menu:&nbsp;&nbsp;
 
 ## ℹ️ About
 
-<div align="center">
-
-  <p align="center">
+<p>
     For our second milestone project, we are tasked with creating an api to provide all the functionality need for an online store.
-  </p>
-
-</div>
+</p>
 
 ## 🖥 Packages
 
